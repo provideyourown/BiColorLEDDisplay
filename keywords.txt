@@ -1,0 +1,32 @@
+#######################################
+# Syntax Coloring Map For Debounce
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+BiColorLED	 KEYWORD1
+BiColorLEDDisplay	 KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+init	 KEYWORD2
+setColor	 KEYWORD2
+setColorA	 KEYWORD2
+setColorB	 KEYWORD2
+setColorLevel	 KEYWORD2
+turnLedBOn	 KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+
+

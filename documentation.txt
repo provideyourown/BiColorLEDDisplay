@@ -1,0 +1,10 @@
+BiColor LED Indicator library for Arduino
+
+Version 1.0
+
+by Scott Daniels
+with contributions from:
+
+contact: ProvideYourOwn.com
+
+See the online documentation here: http://www.arduino.cc/playground/Code/BiColorLED
